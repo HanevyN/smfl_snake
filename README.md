@@ -29,8 +29,20 @@ A grid-based implementation of the classic Snake game using [SFML (Simple and Fa
 ---
 
 ## 📁 Project Structure
+
 ```
-. ├── include/ │ ├── snake.h │ ├── mouse.h │ ├── update_loop.h │ └── config.h ├── src/ │ ├── snake.cpp │ ├── mouse.cpp │ ├── update_loop.cpp │ └── main.cpp ├── CMakeLists.txt └── README.md
+├── include/
+│   ├── snake.h
+│   ├── mouse.h
+│   ├── update_loop.h
+│   └── config.h
+├── src/
+│   ├── snake.cpp
+│   ├── mouse.cpp
+│   ├── update_loop.cpp
+│   └── main.cpp
+├── CMakeLists.txt
+└── README.md
 ```
 ## ⚙️ Configuration
 
