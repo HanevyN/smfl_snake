@@ -23,7 +23,7 @@ A grid-based implementation of the classic Snake game using [SFML (Simple and Fa
 ## 🛠 Requirements
 
 - C++17 or later
-- [SFML 2.5+](https://www.sfml-dev.org/download.php)
+- [SFML 3.0](https://www.sfml-dev.org/download.php)
 - CMake (for build configuration)
 
 ---
